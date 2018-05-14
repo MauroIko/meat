@@ -1,2 +1,9 @@
 #!/bin/bash
-echo "Pamonha" 
+echo "10 Comandos 
+	1- 'git init' gera um repositório
+	2- 'git clone' clona uma pasta de algum repositório
+	3- 'git add' adiciona alterações no arquivo selecionado
+	4- 'git commit -m' faz a confitmação da alteração feita no passo anterior 
+	5- 'git push'  envia as alterações para o repositório remoto
+	6- 'git status' verifica se o arquivo foi modificado"
+ 
