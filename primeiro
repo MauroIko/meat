@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "10 Comandos 
+echo " Comandos 
 	1- 'git init' gera um repositório
 	2- 'git clone' clona uma pasta de algum repositório
 	3- 'git add' adiciona alterações no arquivo selecionado
